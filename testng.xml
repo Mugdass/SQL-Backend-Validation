@@ -1,1 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DB Validation Suite">
+    <test name="DB Validation Tests">
+        <classes>
+            <class name="dbvalidation.DBValidationTests"/>
+        </classes>
+    </test>
+</suite>
 
